@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @constanico
 - 👀 I’m interested in Web Development and Graphic Design
-- 🌱 I’m currently learning PHP, Java, and other lang.
+- 🌱 I’m currently learning PHP, Java, Javascript and Kotlin
 - 🏫 I'm currently studying at BINUS University majoring in Computer Science
 - Currently, I'm doing my internship at PT Bank Central Asia (BCA) as Application Developer
 
